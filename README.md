@@ -1,7 +1,5 @@
 # 📚 Library Management System (OOP Project)
 
-## OOP Java project with MySQL
-
 ## 📌 Project Description
 This Library Management System is a Java-based desktop application developed using Object-Oriented Programming (OOP) concepts and MySQL database. It allows users to manage books through a graphical user interface (GUI), including adding and viewing books with permanent data storage in a database.
 
@@ -102,26 +100,26 @@ CREATE TABLE books (
     status VARCHAR(20)
 );
 ```
+
 ## 📸 Screenshots
 
 ### 1. Compilation & Running Project
-![Compile & Run](snippets/1_compile_run.png)
+![Compile & Run](1_compile_run.png)
 
 ### 2. Main Menu Screen
-![Menu](snippets/2_menu.png)
+![Menu](2_menu.png)
 
 ### 3. Enter Book Information
-![Enter Info](snippets/3_enter_info.png)
+![Enter Info](3_enter_info.png)
 
 ### 4. Add Book Operation
-![Add Book](snippets/4_add_book.png)
+![Add Book](4_add_book.png)
 
 ### 5. View Book Output
-![View Book](snippets/5_view_book.png)
+![View Book](5_view_book.png)
 
 ### 6. MySQL Database Table
-![Database](snippets/6_database.png)
-
+![Database](6_database.png)
 ---
 
 ## 📊 Database Info
@@ -149,7 +147,7 @@ CREATE TABLE books (
 - Java source code (.java files)  
 - MySQL database file (.sql)  
 - README documentation  
-- Screenshots folder (snippets/)  
+- Screenshots (uploaded directly in repository)  
 - PowerPoint Presentation (PPT)  
 - GitHub repository link  
 - Video demonstration link  
