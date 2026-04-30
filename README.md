@@ -100,12 +100,18 @@ CREATE TABLE books (
     status VARCHAR(20)
 );
 ```
-⚙️ Compile the Project
+## ⚙️ Compile the Project
+
+```bash
 javac -cp "mysql-connector-j-9.5.0.jar;." *.java
 ```
-▶️ Run the Project
+
+## ▶️ Run the Project
+
+```bash
 java -cp "mysql-connector-j-9.5.0.jar;." Main
 ```
+
 ## 📸 Screenshots
 
 ### 1. Compilation & Running Project
